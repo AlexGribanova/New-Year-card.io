@@ -1,2 +1,2 @@
-# AlexGribanova.new-year-card.io
+# New year card
 Новогодняя открытка со звуком и падающими снежинками
